@@ -1,0 +1,27 @@
+{
+  "name": "curso-node-js",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000u\u0000r\u0000s\u0000o\u0000N\u0000o\u0000d\u0000e\u0000J\u0000S\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marenco81/cursoNodeJS.git"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "node.js"
+  ],
+  "author": "Alvaro Marenco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marenco81/cursoNodeJS/issues"
+  },
+  "homepage": "https://github.com/Marenco81/cursoNodeJS#readme",
+  "dependencies": {
+    "picocolors": "1.1.1"
+  }
+}
